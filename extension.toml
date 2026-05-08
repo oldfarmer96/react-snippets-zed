@@ -1,0 +1,9 @@
+id = "react-lain-snippets"
+name = "React Snippets Lain"
+version = "0.0.1"
+schema_version = 1
+authors = ["oldfarmer96 <oldfarmer96@gmail.com>"]
+description = "React snippets without import statements"
+repository = "https://github.com/oldfarmer/react-snippets-zed"
+
+snippets = ["./snippets/tsx.json", "./snippets/jsx.json"]
